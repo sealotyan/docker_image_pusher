@@ -1,1 +1,3 @@
+nginx
 hslr/sun-panel
+xhofe/alist:latest
